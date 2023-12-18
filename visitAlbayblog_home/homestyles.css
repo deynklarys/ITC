@@ -256,7 +256,7 @@ body, html {
   position: absolute;
   z-index: 1;
   top: 255%;
-  transform: translateX(3%);
+  transform: translateX(2.5%);
   width: 95%;
   height: 70%;
   border-radius: 50px;
