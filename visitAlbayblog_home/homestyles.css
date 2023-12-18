@@ -248,7 +248,7 @@ body, html {
   font-weight: 100;
   font-style: italic;
   color: white;
-  bottom: -190%;
+  bottom: -170%;
   width: 100%;
 }
 
@@ -256,7 +256,7 @@ body, html {
   position: absolute;
   z-index: 1;
   top: 255%;
-  transform: translateX(2.5%);
+  transform: translateX(3%);
   width: 95%;
   height: 70%;
   border-radius: 50px;
